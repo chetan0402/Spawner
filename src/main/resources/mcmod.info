@@ -1,16 +1,10 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "modid": "spawner",
+  "name": "Spawner",
+  "description": "Rain said he wanted this mod so yea",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["Chetan0402"]
 }
 ]

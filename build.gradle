@@ -50,7 +50,7 @@ minecraft {
 
 mixin {
     defaultObfuscationEnv = "searge"
-    add sourceSets.main, "morefps.mixins.refmap.json"
+    add sourceSets.main, "spawner.mixins.refmap.json"
 }
 
 repositories {
