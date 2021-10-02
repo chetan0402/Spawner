@@ -1,6 +1,6 @@
 {
   "package": "me.chetan.spawner.mixins",
-  "refmap": "morefps.mixins.refmap.json",
+  "refmap": "spawner.mixins.refmap.json",
   "minVersion": "0.7.11",
   "compatibilityLevel": "JAVA_8",
   "client": [
